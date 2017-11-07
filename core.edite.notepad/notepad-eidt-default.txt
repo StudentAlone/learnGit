@@ -1,0 +1,3 @@
+git config ¨Cglobal core.editor vim
+git config ¨Cglobal core.editor notepad
+
